@@ -1,0 +1,19 @@
+C:\Users\datky\Documents\Visual Studio 2015\Projects\window\AKT\AKT\bin\Debug\AKT.exe.config
+C:\Users\datky\Documents\Visual Studio 2015\Projects\window\AKT\AKT\bin\Debug\AKT.exe
+C:\Users\datky\Documents\Visual Studio 2015\Projects\window\AKT\AKT\bin\Debug\AKT.pdb
+C:\Users\datky\Documents\Visual Studio 2015\Projects\window\AKT\AKT\obj\Debug\AKT.csprojResolveAssemblyReference.cache
+C:\Users\datky\Documents\Visual Studio 2015\Projects\window\AKT\AKT\obj\Debug\AKT.Form1.resources
+C:\Users\datky\Documents\Visual Studio 2015\Projects\window\AKT\AKT\obj\Debug\AKT.Properties.Resources.resources
+C:\Users\datky\Documents\Visual Studio 2015\Projects\window\AKT\AKT\obj\Debug\AKT.csproj.GenerateResource.Cache
+C:\Users\datky\Documents\Visual Studio 2015\Projects\window\AKT\AKT\obj\Debug\AKT.exe
+C:\Users\datky\Documents\Visual Studio 2015\Projects\window\AKT\AKT\obj\Debug\AKT.pdb
+C:\Users\User\Downloads\19DTHA1_08-20220826T084725Z-001\19DTHA1_08\19DTHA1_08\19DTHA1_08\AKT\AKT\AKT\bin\Debug\AKT.exe.config
+C:\Users\User\Downloads\19DTHA1_08-20220826T084725Z-001\19DTHA1_08\19DTHA1_08\19DTHA1_08\AKT\AKT\AKT\bin\Debug\AKT.exe
+C:\Users\User\Downloads\19DTHA1_08-20220826T084725Z-001\19DTHA1_08\19DTHA1_08\19DTHA1_08\AKT\AKT\AKT\bin\Debug\AKT.pdb
+C:\Users\User\Downloads\19DTHA1_08-20220826T084725Z-001\19DTHA1_08\19DTHA1_08\19DTHA1_08\AKT\AKT\AKT\obj\Debug\AKT.csprojAssemblyReference.cache
+C:\Users\User\Downloads\19DTHA1_08-20220826T084725Z-001\19DTHA1_08\19DTHA1_08\19DTHA1_08\AKT\AKT\AKT\obj\Debug\AKT.Form1.resources
+C:\Users\User\Downloads\19DTHA1_08-20220826T084725Z-001\19DTHA1_08\19DTHA1_08\19DTHA1_08\AKT\AKT\AKT\obj\Debug\AKT.Properties.Resources.resources
+C:\Users\User\Downloads\19DTHA1_08-20220826T084725Z-001\19DTHA1_08\19DTHA1_08\19DTHA1_08\AKT\AKT\AKT\obj\Debug\AKT.csproj.GenerateResource.cache
+C:\Users\User\Downloads\19DTHA1_08-20220826T084725Z-001\19DTHA1_08\19DTHA1_08\19DTHA1_08\AKT\AKT\AKT\obj\Debug\AKT.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\19DTHA1_08-20220826T084725Z-001\19DTHA1_08\19DTHA1_08\19DTHA1_08\AKT\AKT\AKT\obj\Debug\AKT.exe
+C:\Users\User\Downloads\19DTHA1_08-20220826T084725Z-001\19DTHA1_08\19DTHA1_08\19DTHA1_08\AKT\AKT\AKT\obj\Debug\AKT.pdb
